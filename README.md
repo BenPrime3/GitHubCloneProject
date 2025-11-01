@@ -1,3 +1,3 @@
-This is the description of my repo
-This is the second line
+This is the description of my repo.
+This is the second line.
 
